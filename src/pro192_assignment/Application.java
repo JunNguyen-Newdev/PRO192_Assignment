@@ -9,7 +9,7 @@ package pro192_assignment;
  *
  * @author Nguyen Tan Trung - CE200064
  */
-public class PRO192_Assignment {
+public class Application {
 
     /**
      * @param args the command line arguments
